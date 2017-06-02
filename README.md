@@ -1,4 +1,6 @@
 # Tutorial-Grunt-TheBasics
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/CaryLandholt/Tutorial-Grunt-TheBasics.svg)](https://greenkeeper.io/)
 *By [@CaryLandholt](https://twitter.com/carylandholt)*
 
 ## Prerequisites
